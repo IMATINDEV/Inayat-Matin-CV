@@ -1,4 +1,4 @@
-# Inayat Matin - Software Engineering CV 📄
+# Inayat Matin CV 📄
 
 ## 📌 Overview
 This repository contains my professional CV, custom-built from scratch using **HTML5** and **CSS3**. 
